@@ -48,5 +48,5 @@ $hasil = "";
     $detik = $waktu;
     $hasil.=$detik . "detik ";
     echo "<h3>Hasil Konversi</h3>";
-    echo "<p>$total_detik detik sama dengan $jam jam $menit menit $detik detik</p>";
+    echo "$total_detik detik sama dengan $jam jam $menit menit $detik detik";
  }
